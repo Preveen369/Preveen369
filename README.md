@@ -108,6 +108,7 @@
 📧 **Email:** spreveen123@gmail.com  
 💼 **LinkedIn:** [linkedin.com/in/preveen-s](https://www.linkedin.com/in/preveen-s-17250529b/)  
 🌐 **Portfolio:** [preveen369.github.io/preveen_portfolio](https://preveen369.github.io/preveen_portfolio/)  
+⛓️‍💥 **Instagram:** [instagram.com/_preveen_s](https://www.instagram.com/_preveen_s/)
 
 ---
 
