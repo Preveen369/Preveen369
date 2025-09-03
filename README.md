@@ -12,7 +12,7 @@
 🤝 Seeking guidance on **scaling apps & cloud deployment**  
 🌱 Expanding skills in **React, Node.js, and Cloud Technologies**  
 💬 Ask me about **MERN, Firebase, or Android App Development**  
-⚡ Fun fact: I built a chatbot that plans trips better than most humans!  
+⚡ Built a chatbot that plans trips better than most humans!  
 
 ---
 
