@@ -89,17 +89,17 @@
 ---
 
 # 📈 Contribution Graph
-[![Preveen's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Preveen369&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)  
+[![Preveen's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Preveen369&theme=github-dark-dimmed)](https://github.com/ashutosh00710/github-readme-activity-graph)  
 
 ---
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)  
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord&hide_border=false&no-bg=false)
 
 ---
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Preveen369&limit=5&theme=radical&combine_all_yearly_contributions=true)  
+![](https://github-contributor-stats.vercel.app/api?username=Preveen369&limit=5&theme=onedark&combine_all_yearly_contributions=true)  
 
 ---
 
