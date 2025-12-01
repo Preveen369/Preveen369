@@ -94,7 +94,7 @@
 ---
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord&hide_border=false&no-bg=false)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord&hide_border=false)
 
 ---
 
