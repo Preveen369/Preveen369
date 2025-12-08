@@ -79,7 +79,7 @@
 ---
 
 # 📊 GitHub Stats 
-![](https://streak-stats.demolab.com/?user=Preveen369&theme=onedark&hide_border=false&no-bg=false)
+![](https://streak-stats.demolab.com?user=Preveen369&theme=onedark)
 
 ---
 
@@ -89,7 +89,7 @@
 ---
 
 # 📈 Contribution Graph
-[![Preveen's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Preveen369&theme=github-dark-dimmed)](https://github.com/ashutosh00710/github-readme-activity-graph)  
+[![Preveen's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Preveen369&bg_color=282c34&color=abb2bf&line=e5c17c&point=e06c75&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)  
 
 ---
 
