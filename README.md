@@ -53,8 +53,8 @@
 ---
 
 # 📊 GitHub Stats 
-![](https://github.com/Preveen369/github-stats-transparent/blob/output/generated/languages.svg)
 ![](https://github.com/Preveen369/github-stats-transparent/blob/output/generated/overview.svg)
+![](https://github.com/Preveen369/github-stats-transparent/blob/output/generated/languages.svg)
 
 ---
 
