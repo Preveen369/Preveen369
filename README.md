@@ -79,12 +79,13 @@
 ---
 
 # 📊 GitHub Stats 
-![](https://streak-stats.demolab.com?user=Preveen369&theme=onedark)
+![](https://github.com/Preveen369/github-stats-transparent/blob/output/generated/languages.svg)
+![](https://github.com/Preveen369/github-stats-transparent/blob/output/generated/overview.svg)
 
 ---
 
 # 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Preveen369&theme=onedark&no-bg=false&margin-w=5)  
+![](https://github-trophies.vercel.app/?username=Preveen369&theme=onedark&no-bg=false&margin-w=5)
 
 ---
 
