@@ -39,7 +39,8 @@
 # 🎓 Certifications
 - 🎖 [Java In-Depth: Become a Complete Java Engineer (Udemy)](https://www.udemy.com/certificate/UC-53c045e8-934c-4085-98d6-c74a6aed33e5/)  
 - 🎖 [JavaScript Programming Essentials (IBM & Coursera)](https://coursera.org/share/9d96933333b32584391821950178f686)
-- 🎖 [Developing Frontend Apps with React (IBM & Coursera)](https://coursera.org/share/0af5fbdbece7ea2ef4afa6344142b76c)  
+- 🎖 [Developing Frontend Apps with React (IBM & Coursera)](https://coursera.org/share/0af5fbdbece7ea2ef4afa6344142b76c)
+- 🎖 [Developing Back-End Apps with Node.js and Express (IBM & Coursera)](https://coursera.org/share/1fdb9f4e633195002251069e53d88789)
 - 🎖 [Career Essentials in Generative AI (Microsoft & LinkedIn)](https://www.linkedin.com/learning/certificates/03e2105c42182fffb220810c75a830dd73f5158105f0babeca932866747fe7dd?trk=share_certificate)  
 
 ---
