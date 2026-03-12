@@ -7,8 +7,12 @@
   <a href="https://www.linkedin.com/in/preveen-s-17250529b/">LinkedIn</a> | 
   <a href="https://github.com/Preveen369">GitHub</a> | 
   <a href="https://www.instagram.com/_preveen_s/">Instagram</a>
-</div>
 
+  <div style="min-width: 100px; text-align: center;">
+    <img src="https://res.cloudinary.com/dcmxcdsx4/image/upload/v1773304114/developer_profile_icon.png" />
+  </div>
+</div> 
+    
 ---
 
 # 🧭 About Me
