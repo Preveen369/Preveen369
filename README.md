@@ -1,64 +1,97 @@
 ![Github Banner](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg)
-# 👋 Hi, my name is Preveen S 
-**Fullstack Web Developer | Software Engineer** 👨‍💻🧭
 
-📍 Madurai, India | 📧 spreveen123@gmail.com  
-🌐 [Portfolio](https://preveen369.github.io/preveen_portfolio/) | [LinkedIn](https://www.linkedin.com/in/preveen-s-17250529b/) | [GitHub](https://github.com/Preveen369) | [Instagram](https://www.instagram.com/_preveen_s/)  
+<div align="center">
+  <h1>👋 Hi, my name is Preveen S</h1>
+  <strong>Fullstack Web Developer | Software Engineer</strong> 👨‍💻🧭<br>
+  📍 Madurai, India | 📧 spreveen123@gmail.com<br><br>
+   
+  <a href="https://preveen369.github.io/preveen_portfolio/">Portfolio</a> | 
+  <a href="https://www.linkedin.com/in/preveen-s-17250529b/">LinkedIn</a> | 
+  <a href="https://github.com/Preveen369">GitHub</a> | 
+  <a href="https://www.instagram.com/_preveen_s/">Instagram</a>
+</div>
 
 ---
 
+## 📋 Table of Contents
+
+- [About Me](#about-me)
+- [Skills](#skills)
+- [Featured Projects](#featured-projects)
+- [Certifications](#certifications)
+- [Achievements](#achievements)
+- [GitHub Stats](#github-stats)
+- [Tech Stack](#tech-stack)
+- [IDEs & Tools](#ides--tools)
+- [GitHub Trophies](#github-trophies)
+- [Contribution Graph](#contribution-graph)
+- [Random Dev Quote](#random-dev-quote)
+- [Contact Me](#contact-me)
+  
+---
+
+<a href="#about-me"></a>
 # 🧭 About Me
 🔭 Currently building **web and mobile applications** with real-time features  
 👯 Open to collaborating on **e-commerce platforms** and **AI-driven projects**  
 🤝 Seeking guidance on **scaling apps & cloud deployment**  
 🌱 Expanding skills in **React, Node.js, and Cloud Technologies**  
 💬 Ask me about **MERN, Firebase, or Android App Development**  
-⚡ Built a chatbot that plans trips better than most humans!  
+⚡ Built a chatbot that plans trips better than most humans!
 
 ---
 
+<a href="#skills"></a>
 # 💻 Skills
-- **Languages:** Java, JavaScript, Python, HTML, CSS  
-- **Frameworks & Libraries:** React.js, Node.js, Express.js  
-- **Databases:** MySQL, MongoDB, Firebase  
-- **Other Tools:** GitHub, REST APIs, Cloud Deployment  
+
+| Category                  | Technologies |
+|---------------------------|--------------|
+| **Languages**             | Java, JavaScript, Python, HTML, CSS |
+| **Frameworks & Libraries**| React.js, Node.js, Express.js |
+| **Databases**             | MySQL, MongoDB, Firebase |
+| **Other Tools**           | GitHub, REST APIs, Cloud Deployment |
 
 ---
 
+<a href="#featured-projects"></a>
 # 🚀 Featured Projects
 - 📝 [**EnlightenIt Hub Blog App**](https://github.com/Preveen369/EnlightenIt-Hub-App)  
-   MERN full-stack blogging platform with authentication, profile management, and image uploads.  
-   **Stack:** React.js, Node.js, Express.js, MongoDB  
+  MERN full-stack blogging platform with authentication, profile management, and image uploads.  
+  **Stack:** React.js, Node.js, Express.js, MongoDB
 
 - 🐾 [**NammaPets SBA App**](https://github.com/Preveen369/NammaPets-SBA)  
-   Android-based pet shop e-commerce app with secure login and real-time data storage.  
-   **Stack:** Android Studio, Java, Firebase  
+  Android-based pet shop e-commerce app with secure login and real-time data storage.  
+  **Stack:** Android Studio, Java, Firebase
 
 ---
 
+<a href="#certifications"></a>
 # 🎓 Certifications
-- 🎖 [Java In-Depth: Become a Complete Java Engineer (Udemy)](https://www.udemy.com/certificate/UC-53c045e8-934c-4085-98d6-c74a6aed33e5/)  
+- 🎖 [Java In-Depth: Become a Complete Java Engineer (Udemy)](https://www.udemy.com/certificate/UC-53c045e8-934c-4085-98d6-c74a6aed33e5/)
 - 🎖 [JavaScript Programming Essentials (IBM & Coursera)](https://coursera.org/share/9d96933333b32584391821950178f686)
 - 🎖 [Developing Frontend Apps with React (IBM & Coursera)](https://coursera.org/share/0af5fbdbece7ea2ef4afa6344142b76c)
 - 🎖 [Developing Back-End Apps with Node.js and Express (IBM & Coursera)](https://coursera.org/share/1fdb9f4e633195002251069e53d88789)
-- 🎖 [Career Essentials in Generative AI (Microsoft & LinkedIn)](https://www.linkedin.com/learning/certificates/03e2105c42182fffb220810c75a830dd73f5158105f0babeca932866747fe7dd?trk=share_certificate)  
+- 🎖 [Career Essentials in Generative AI (Microsoft & LinkedIn)](https://www.linkedin.com/learning/certificates/03e2105c42182fffb220810c75a830dd73f5158105f0babeca932866747fe7dd?trk=share_certificate)
 
 ---
 
+<a href="#achievements"></a>
 # 🏅 Achievements
-- Cleared **Zoho Cliqtrix 2024 Round 1** by building a travel-based chatbot **WanderWave**  
-- Full-stack development internship (**Recssar Pvt. Ltd.**) – MERN stack apps  
-- Java Web Development internship (**Elysium Technologies**) – JSP, JDBC, MySQL  
-- Consistently scored **90%+ in academics** (10th: 94.8%, 12th: 93%)  
+- Cleared **Zoho Cliqtrix 2024 Round 1** by building a travel-based chatbot **WanderWave**
+- Full-stack development internship (**Recssar Pvt. Ltd.**) – MERN stack apps
+- Java Web Development internship (**Elysium Technologies**) – JSP, JDBC, MySQL
+- Consistently scored **90%+ in academics** (10th: 94.8%, 12th: 93%)
 
 ---
 
+<a href="#github-stats"></a>
 # 📊 GitHub Stats 
 ![](https://raw.githubusercontent.com/Preveen369/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/Preveen369/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 
 ---
 
+<a href="#tech-stack"></a>
 # 💻 Tech Stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -74,6 +107,7 @@
 
 ---
 
+<a href="#ides--tools"></a>
 # 🛠️ IDEs & Tools
 ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) 
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
@@ -85,16 +119,19 @@
 
 ---
 
+<a href="#github-trophies"></a>
 # 🏆 GitHub Trophies
 ![](https://github-trophies.vercel.app/?username=Preveen369&theme=onedark&no-bg=false&column=8&row=1&margin-w=10)
 
 ---
 
+<a href="#contribution-graph"></a>
 # 📈 Contribution Graph
 ![](https://github-readme-activity-graph.vercel.app/graph?username=Preveen369&bg_color=282c34&color=abb2bf&line=e5c17c&point=e06c75&area=true&hide_border=true)
 
 ---
 
+<a href="#random-dev-quote"></a>
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord&hide_border=false)
 
@@ -105,14 +142,12 @@
 
 ---
 
+<a href="#contact-me"></a>
 # 📬 Contact Me
 📧 **Email:** spreveen123@gmail.com  
 💼 **LinkedIn:** [linkedin.com/in/preveen-s](https://www.linkedin.com/in/preveen-s-17250529b/)  
 🌐 **Portfolio:** [preveen369.github.io/preveen_portfolio](https://preveen369.github.io/preveen_portfolio/)  
 ⛓️‍💥 **Instagram:** [instagram.com/_preveen_s](https://www.instagram.com/_preveen_s/)
 
----
 
-[![](https://visitcount.itsvg.in/api?id=Preveen369&icon=2&color=12)](https://visitcount.itsvg.in)
-
-<!-- Final README | Dark Theme + Professional + Developer Showcase -->
+<!-- Final README | Dark Theme + Professional + Developer Showcase | Organized with HTML + Markdown -->
