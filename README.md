@@ -1,8 +1,6 @@
-![Github Banner](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg)
-
 <div align="center">
   <h1>👋 Hi, my name is Preveen S</h1>
-  <strong>Fullstack Web Developer | Software Engineer</strong> 👨‍💻🧭<br>
+  <strong>Fullstack Web & AI Developer | Software Engineer</strong> 👨‍💻🧭<br>
   📍 Madurai, India | 📧 spreveen123@gmail.com<br><br>
    
   <a href="https://preveen369.github.io/preveen_portfolio/">Portfolio</a> | 
@@ -11,23 +9,6 @@
   <a href="https://www.instagram.com/_preveen_s/">Instagram</a>
 </div>
 
----
-
-## 📋 Table of Contents
-
-- [About Me](#about-me)
-- [Skills](#skills)
-- [Featured Projects](#featured-projects)
-- [Certifications](#certifications)
-- [Achievements](#achievements)
-- [GitHub Stats](#github-stats)
-- [Tech Stack](#tech-stack)
-- [IDEs & Tools](#ides--tools)
-- [GitHub Trophies](#github-trophies)
-- [Contribution Graph](#contribution-graph)
-- [Random Dev Quote](#random-dev-quote)
-- [Contact Me](#contact-me)
-  
 ---
 
 # 🧭 About Me
