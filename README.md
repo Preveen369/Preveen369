@@ -114,10 +114,10 @@
 
 ---
 
-### 🔝 Top Contributed Repo
+<!--### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Preveen369&limit=5&theme=onedark&combine_all_yearly_contributions=true)  
 
----
+--- -->
 
 # 📬 Contact Me
 📧 **Email:** spreveen123@gmail.com  
