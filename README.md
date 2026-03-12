@@ -30,7 +30,6 @@
   
 ---
 
-<a href="#about-me"></a>
 # 🧭 About Me
 🔭 Currently building **web and mobile applications** with real-time features  
 👯 Open to collaborating on **e-commerce platforms** and **AI-driven projects**  
@@ -41,7 +40,6 @@
 
 ---
 
-<a href="#skills"></a>
 # 💻 Skills
 
 | Category                  | Technologies |
@@ -53,7 +51,6 @@
 
 ---
 
-<a href="#featured-projects"></a>
 # 🚀 Featured Projects
 - 📝 [**EnlightenIt Hub Blog App**](https://github.com/Preveen369/EnlightenIt-Hub-App)  
   MERN full-stack blogging platform with authentication, profile management, and image uploads.  
@@ -65,7 +62,6 @@
 
 ---
 
-<a href="#certifications"></a>
 # 🎓 Certifications
 - 🎖 [Java In-Depth: Become a Complete Java Engineer (Udemy)](https://www.udemy.com/certificate/UC-53c045e8-934c-4085-98d6-c74a6aed33e5/)
 - 🎖 [JavaScript Programming Essentials (IBM & Coursera)](https://coursera.org/share/9d96933333b32584391821950178f686)
@@ -107,7 +103,6 @@
 
 ---
 
-<a href="#ides--tools"></a>
 # 🛠️ IDEs & Tools
 ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) 
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
@@ -119,19 +114,16 @@
 
 ---
 
-<a href="#github-trophies"></a>
 # 🏆 GitHub Trophies
 ![](https://github-trophies.vercel.app/?username=Preveen369&theme=onedark&no-bg=false&column=8&row=1&margin-w=10)
 
 ---
 
-<a href="#contribution-graph"></a>
 # 📈 Contribution Graph
 ![](https://github-readme-activity-graph.vercel.app/graph?username=Preveen369&bg_color=282c34&color=abb2bf&line=e5c17c&point=e06c75&area=true&hide_border=true)
 
 ---
 
-<a href="#random-dev-quote"></a>
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord&hide_border=false)
 
@@ -142,12 +134,9 @@
 
 ---
 
-<a href="#contact-me"></a>
 # 📬 Contact Me
 📧 **Email:** spreveen123@gmail.com  
 💼 **LinkedIn:** [linkedin.com/in/preveen-s](https://www.linkedin.com/in/preveen-s-17250529b/)  
 🌐 **Portfolio:** [preveen369.github.io/preveen_portfolio](https://preveen369.github.io/preveen_portfolio/)  
 ⛓️‍💥 **Instagram:** [instagram.com/_preveen_s](https://www.instagram.com/_preveen_s/)
 
-
-<!-- Final README | Dark Theme + Professional + Developer Showcase | Organized with HTML + Markdown -->
