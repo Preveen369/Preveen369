@@ -61,15 +61,18 @@
 
 ---
 
-<a href="#github-stats"></a>
 # 📊 GitHub Stats 
-![](https://github-readme-stats.vercel.app/api?username=Preveen369&show_icons=true&theme=onedark)
-![](https://raw.githubusercontent.com/Preveen369/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/Preveen369/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+
+<a href="#">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Preveen369&theme=onedark&show_icons=true" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Preveen369&theme=onedark&layout=compact&langs_count=8&card_width=320" />
+</a>
+
+<!--![](https://raw.githubusercontent.com/Preveen369/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/Preveen369/github-stats/master/generated/languages.svg#gh-dark-mode-only)-->
 
 ---
 
-<a href="#tech-stack"></a>
 # 💻 Tech Stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
