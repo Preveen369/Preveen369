@@ -84,7 +84,7 @@ To grow into a strong Full-Stack + AI Engineer — mastering frontend, backend, 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![Flask](https://img.shields.io/badge/flask-%23124d59.svg?style=for-the-badge&logo=flask&logoColor=%2361DARB)
-![FastAPI](https://img.shields.io/badge/fastapi-%23434d59.svg?style=for-the-badge&logo=fastapi&logoColor=%236DAFB)
+![FastAPI](https://img.shields.io/badge/fastapi-%23434d59.svg?style=for-the-badge&logo=fastapi&logoColor=%26DB33F)
 
 ### Databases & Backend Services
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -93,14 +93,14 @@ To grow into a strong Full-Stack + AI Engineer — mastering frontend, backend, 
 
 ### IDEs, Tools & Others
 ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-2ECC71.svg?style=for-the-badge&logo=android-studio&logoColor=white)
+![Android_Studio](https://img.shields.io/badge/Android%20Studio-2ECC71.svg?style=for-the-badge&logo=android-studio&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![NetBeans IDE](https://img.shields.io/badge/Apache%20NetBeans-1B6AC6.svg?style=for-the-badge&logo=apachenetbeanside&logoColor=white)
+![NetBeans_IDE](https://img.shields.io/badge/Apache%20NetBeans-1B6AC6.svg?style=for-the-badge&logo=apachenetbeanside&logoColor=white)
 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![XAMPP](https://img.shields.io/badge/XAMPP-F37623.svg?style=for-the-badge&logo=xampp&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00.svg?style=for-the-badge&logo=googlecolab&logoColor=black)
+![Google_Colab](https://img.shields.io/badge/Google%20Colab-F9AB00.svg?style=for-the-badge&logo=googlecolab&logoColor=black)
 ![Render](https://img.shields.io/badge/Render-FFFFFF.svg?style=for-the-badge&logo=render&logoColor=black)
 
 **Also experienced with:** REST APIs · GitHub · Cloud Deployment
@@ -108,14 +108,20 @@ To grow into a strong Full-Stack + AI Engineer — mastering frontend, backend, 
 ---
 
 # 🚀 Featured Projects
-- 📝 [**EnlightenIt Hub Blog App**](https://github.com/Preveen369/EnlightenIt-Hub-App)  
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Preveen369&repo=Smart-Virtual-Wardrobe&theme=onedark)](https://github.com/Preveen369/Smart-Virtual-Wardrobe)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Preveen369&repo=EnlightenIt-Hub-App&theme=onedark)](https://github.com/Preveen369/EnglightenIt-Hub-App)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Preveen369&repo=NammaPets-SBA&theme=onedark)](https://github.com/Preveen369/NammaPets-SBA)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Preveen369&repo=Mini-Store-ERP&theme=onedark)](https://github.com/Preveen369/Mini-Store-ERP)
+
+<!-- - 📝 [**EnlightenIt Hub Blog App**](https://github.com/Preveen369/EnlightenIt-Hub-App)  
   MERN full-stack blogging platform with authentication, profile management, and image uploads.  
   **Stack:** React.js, Node.js, Express.js, MongoDB
 
 - 🐾 [**NammaPets SBA App**](https://github.com/Preveen369/NammaPets-SBA)  
   Android-based pet shop e-commerce app with secure login and real-time data storage.  
-  **Stack:** Android Studio, Java, Firebase
-
+  **Stack:** Android Studio, Java, Firebase-->
 ---
 
 # 🏅 Achievements
@@ -138,7 +144,7 @@ To grow into a strong Full-Stack + AI Engineer — mastering frontend, backend, 
   <br><br>
   <!-- Trophies (adaptive columns, transparent bg) -->
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-trophies.vercel.app/?username=Preveen369&theme=onedark&no-bg=false&column=8&row=1&margin-w=10" alt="GitHub Trophies" />
+    <img src="https://github-trophies.vercel.app/?username=Preveen369&no-frame=true&theme=onedark&no-bg=false&column=8&row=1&margin-w=10" alt="GitHub Trophies" />
   </a>
   <br><br>
   <!-- Activity Graph (full-width, centered) -->
