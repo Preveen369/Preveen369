@@ -1,7 +1,21 @@
 <div align="center">
-  <h1>👋 Hi, my name is Preveen S</h1>
-  <strong>Fullstack Web & AI Developer | Software Engineer</strong> 👨‍💻🧭<br>
-  📍 Madurai, India | 📧 spreveen123@gmail.com<br><br>
+  <h1>
+    <img 
+      src="https://iam-weijie.github.io/wave/hand-emoji.svg" 
+      alt="Waving hand" 
+      width="60" 
+      height="45" 
+      style="vertical-align: bottom; margin-right: 10px;"/>  
+    Hi, my name is Preveen S
+  </h1>
+  
+  <p style="font-size: 1.4em; margin: 12px 0; opacity: 0.9;">
+    Fullstack Web & AI Developer | Software Engineer 👨‍💻🧭
+  </p>
+
+  <p style="font-size: 1.1em; margin: 8px 0;">
+    📍 Madurai, India | 📧 spreveen123@gmail.com
+  </p>
    
   <a href="https://preveen369.github.io/preveen_portfolio/">Portfolio</a> | 
   <a href="https://www.linkedin.com/in/preveen-s-17250529b/">LinkedIn</a> | 
@@ -18,6 +32,7 @@
 # 🙋 About Me
 
 🌟 **Who I am**  
+
 A Fullstack Web & Mobile Developer passionate about building responsive, real-time, and user-centric applications with clean, scalable code.  Currently creating web platforms (MERN) and Android apps that solve real problems.
 
 📚 **Currently Learning / Expanding**
@@ -43,6 +58,7 @@ A Fullstack Web & Mobile Developer passionate about building responsive, real-ti
 - 📱 Mobile-Web Hybrid Ideas
 
 🎯 **Vision**  
+
 To grow into a strong Full-Stack + AI Engineer — mastering frontend, backend, cloud infrastructure, and intelligent features — while building products that make a real difference.
 
 💬 Feel free to ask me about: MERN Stack, Firebase, Android Development, Real-time Features!
@@ -85,6 +101,7 @@ To grow into a strong Full-Stack + AI Engineer — mastering frontend, backend, 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![XAMPP](https://img.shields.io/badge/XAMPP-F37623.svg?style=for-the-badge&logo=xampp&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00.svg?style=for-the-badge&logo=googlecolab&logoColor=black)
+![Render](https://img.shields.io/badge/Render-FFFFFF.svg?style=for-the-badge&logo=render&logoColor=black)
 
 **Also experienced with:** REST APIs · GitHub · Cloud Deployment
 
@@ -131,8 +148,6 @@ To grow into a strong Full-Stack + AI Engineer — mastering frontend, backend, 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord&hide_border=false)
 
 </div>
-
-
 
 ---
 
