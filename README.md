@@ -32,38 +32,35 @@
 # 🙋 About Me
 
 🌟 **Who I am**  
+Full-Stack Web & Mobile Developer turned AI enthusiast. I build responsive, real-time, user-focused applications with clean, scalable code — using **MERN stack** for web platforms and **native Android** for mobile apps that solve real-world problems.
 
-A Fullstack Web & Mobile Developer passionate about building responsive, real-time, and user-centric applications with clean, scalable code.  Currently creating web platforms (MERN) and Android apps that solve real problems.
+📚 **Currently Learning / Diving Deep**  
+- **AI • ML • DL** fundamentals and advanced concepts  
+- **Large Language Models (LLMs)** and prompt engineering  
+- **AI Orchestration with LLMs** — coordinating agents, tools, chains, multi-model workflows, RAG, and intelligent decision-making systems (exploring frameworks like LangChain, LlamaIndex, CrewAI, etc.)  
+- Advanced React + TypeScript, modern state management (Redux Toolkit, Zustand, Context API)  
+- Cloud deployment, scaling & DevOps (AWS, Vercel, Docker, etc.)  
+- Integrating AI into full-stack and mobile applications for smarter features  
 
-📚 **Currently Learning / Expanding**
+🚀 **What Drives Me**  
+- Building meaningful, high-impact products that blend great UX with intelligent backend logic  
+- Pushing boundaries by combining web/mobile development with cutting-edge AI  
+- Open-source contributions, knowledge sharing, and meaningful collaborations  
+- Writing maintainable, performant, and future-proof code  
 
-- Advanced React & TypeScript
-- State Management (Redux Toolkit, Context API)
-- Cloud Deployment & Scaling (AWS / Vercel / similar)
-- AI Integration in Web & Mobile Apps
-- Performance Optimization & Modern UI/UX Practices
-
-🚀 **What Drives Me**
-
-- Creating meaningful & impactful applications
-- Exploring new technologies (especially AI + web)
-- Open Source contributions & collaboration
-- Delivering high-quality, maintainable solutions
-  
-👯 **Open to Collaborating on**
-
-- 🛒 E-commerce Platforms 
-- 🤖 AI-Driven Projects & Intelligent Chatbots
-- ⚡ Real-Time Full-Stack Applications
-- 📱 Mobile-Web Hybrid Ideas
+👯 **Open to Collaborating on**  
+- 🛒 E-commerce & marketplace platforms with smart recommendations  
+- 🤖 AI-powered applications, intelligent agents, chatbots & LLM orchestration projects  
+- ⚡ Real-time full-stack systems (WebSockets, live features)  
+- 📱 Mobile-Web hybrid apps with AI enhancements  
+- Any project where AI meets practical user-facing products  
 
 🎯 **Vision**  
+Evolving into a **Full-Stack + AI Engineer** — mastering frontend, backend, mobile, cloud infrastructure, **machine learning / deep learning**, and **LLM orchestration** to create intelligent, autonomous, and truly transformative applications that make people's lives easier and better.
 
-To grow into a strong Full-Stack + AI Engineer — mastering frontend, backend, cloud infrastructure, and intelligent features — while building products that make a real difference.
+💬 Feel free to reach out about: **MERN Stack**, **Firebase**, **Android**, **Real-time apps**, **AI/ML basics**, **LLM integration**, or **building AI agents/orchestration**!  
 
-💬 Feel free to ask me about: MERN Stack, Firebase, Android Development, Real-time Features!
-
-⚡ Built a chatbot that plans trips better than most humans!
+⚡ Fun fact: Built a travel-planning chatbot that often creates better itineraries than most humans 😄
 
 ---
 
