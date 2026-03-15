@@ -32,19 +32,19 @@
 # 🙋 About Me
 
 🌟 **Who I am**  
-Full-Stack Web & Mobile Developer turned AI enthusiast. I build responsive, real-time, user-focused applications with clean, scalable code — using **MERN stack** for web platforms and **native Android** for mobile apps that solve real-world problems.
+Full-Stack Web & Mobile Developer turned AI enthusiast. I build responsive, real-time, user-focused applications with clean, scalable code — using **MERN stack** for web platforms and **native Android** for mobile apps that solve real-world problems. Passionate about turning human intent into precise AI behavior through effective **prompt engineering** and LLM orchestration.
 
 📚 **Currently Learning / Diving Deep**  
 - **AI • ML • DL** fundamentals and advanced concepts  
 - **Large Language Models (LLMs)** and prompt engineering  
-- **AI Orchestration with LLMs** — coordinating agents, tools, chains, multi-model workflows, RAG, and intelligent decision-making systems (exploring frameworks like LangChain, LlamaIndex, CrewAI, etc.)  
-- Advanced React + TypeScript, modern state management (Redux Toolkit, Zustand, Context API)  
+- **AI Orchestration with LLMs** — coordinating agents, tools, chains, multi-model workflows, RAG, and intelligent decision-making systems (exploring frameworks like LangChain, CrewAI, etc.)
 - Cloud deployment, scaling & DevOps (AWS, Vercel, Docker, etc.)  
 - Integrating AI into full-stack and mobile applications for smarter features  
 
 🚀 **What Drives Me**  
 - Building meaningful, high-impact products that blend great UX with intelligent backend logic  
-- Pushing boundaries by combining web/mobile development with cutting-edge AI  
+- Pushing boundaries by combining web/mobile development with cutting-edge AI
+- Unleash the AI's full potential through the "**art of Prompt Engineering**".
 - Open-source contributions, knowledge sharing, and meaningful collaborations  
 - Writing maintainable, performant, and future-proof code  
 
@@ -56,7 +56,7 @@ Full-Stack Web & Mobile Developer turned AI enthusiast. I build responsive, real
 - Any project where AI meets practical user-facing products  
 
 🎯 **Vision**  
-Evolving into a **Full-Stack + AI Engineer** — mastering frontend, backend, mobile, cloud infrastructure, **machine learning / deep learning**, and **LLM orchestration** to create intelligent, autonomous, and truly transformative applications that make people's lives easier and better.
+Evolving into a **Full-Stack + AI Engineer** to create intelligent, autonomous, and truly transformative applications that make people's lives easier and better.
 
 💬 Feel free to reach out about: **MERN Stack**, **Firebase**, **Android**, **Real-time apps**, **AI/ML basics**, **LLM integration**, or **building AI agents/orchestration**!  
 
