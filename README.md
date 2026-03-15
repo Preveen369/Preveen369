@@ -80,8 +80,8 @@ Evolving into a **Full-Stack + AI Engineer** to create intelligent, autonomous, 
 ### Backend & Server
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Flask](https://img.shields.io/badge/flask-%23124d59.svg?style=for-the-badge&logo=flask&logoColor=%2361DARB)
-![FastAPI](https://img.shields.io/badge/fastapi-%23434d59.svg?style=for-the-badge&logo=fastapi&logoColor=%26DB33F)
+![Flask](https://img.shields.io/badge/flask-%23124d59.svg?style=for-the-badge&logo=flask&logoColor=%2361DAFB)
+![FastAPI](https://img.shields.io/badge/fastapi-%23434d59.svg?style=for-the-badge&logo=fastapi&logoColor=%236DB33F)
 
 ### Databases & Backend Services
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -107,7 +107,7 @@ Evolving into a **Full-Stack + AI Engineer** to create intelligent, autonomous, 
 # 🚀 Featured Projects
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Preveen369&repo=Smart-Virtual-Wardrobe&theme=onedark)](https://github.com/Preveen369/Smart-Virtual-Wardrobe)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Preveen369&repo=EnlightenIt-Hub-App&theme=onedark)](https://github.com/Preveen369/EnglightenIt-Hub-App)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Preveen369&repo=EnlightenIt-Hub-App&theme=onedark)](https://github.com/Preveen369/EnlightenIt-Hub-App)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Preveen369&repo=NammaPets-SBA&theme=onedark)](https://github.com/Preveen369/NammaPets-SBA)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Preveen369&repo=Mini-Store-ERP&theme=onedark)](https://github.com/Preveen369/Mini-Store-ERP)
@@ -127,7 +127,16 @@ Evolving into a **Full-Stack + AI Engineer** to create intelligent, autonomous, 
 - Pursued Java Web Development internship (**Elysium Technologies**) – JSP, JDBC, MySQL
 - Consistently scored **90%+ in academics** (10th: 94.8%, 12th: 93%)
 
-# 📊 GitHub Stats & Activity
+# 📈 My GitHub Streaks
+
+<div align="center">
+  <!-- Streaks Card -->
+  <a href="https://github.com/Preveen369">
+    <img height="200" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Preveen369&theme=onedark&hide_border=true" alt="Preveen369's GitHub Streaks" />
+  </a>
+</div>
+
+# 📊 My GitHub Stats & Activity
 
 <div align="center">
 
