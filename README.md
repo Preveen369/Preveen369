@@ -142,7 +142,7 @@ Evolving into a **Full-Stack + AI Engineer** to create intelligent, autonomous, 
 
   <!-- Stats Card + Top Languages side-by-side -->
   <a href="https://github.com/Preveen369">
-    <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=Preveen369&theme=onedark&show_icons=true&hide_border=true&include_all_commits=true" alt="Preveen369's GitHub Stats" />
+    <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=Preveen369&theme=onedark&show_icons=true&hide_border=true&include_all_commits=true&alt="Preveen369's GitHub Stats" />
   </a>
   <a href="https://github.com/Preveen369">
     <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Preveen369&theme=onedark&layout=compact&langs_count=8&hide_border=true&card_width=320" alt="Top Languages" />
