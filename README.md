@@ -2,11 +2,8 @@
   <h1>
     <img 
       src="https://iam-weijie.github.io/wave/hand-emoji.svg" 
-      alt="Waving hand" 
-      width="60" 
-      height="45" 
-      style="vertical-align: bottom; margin-right: 10px;"/>  
-    Hi, my name is Preveen S
+      alt="Waving hand" width="45"
+      style="vertical-align: bottom; margin-right: 10px;"/> Hi, my name is Preveen S
   </h1>
   
   <p style="font-size: 1.4em; margin: 12px 0; opacity: 0.9;">
