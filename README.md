@@ -14,7 +14,7 @@
     📍 Madurai, India | 📧 spreveen123@gmail.com
   </p>
    
-  <a href="https://preveen369.github.io/preveen_portfolio/">Portfolio</a> | 
+  <a href="https://preveens-portfolio-app.netlify.app/">Portfolio</a> | 
   <a href="https://www.linkedin.com/in/preveen-s-17250529b/">LinkedIn</a> | 
   <a href="https://github.com/Preveen369">GitHub</a> | 
   <a href="https://www.instagram.com/_preveen_s/">Instagram</a>
@@ -168,6 +168,6 @@ Evolving into a **Full-Stack + AI Engineer** to create intelligent, autonomous, 
 # 📬 Contact Me
 📧 **Email:** spreveen123@gmail.com  
 💼 **LinkedIn:** [linkedin.com/in/preveen-s](https://www.linkedin.com/in/preveen-s-17250529b/)  
-🌐 **Portfolio:** [preveen369.github.io/preveen_portfolio](https://preveen369.github.io/preveen_portfolio/)  
+🌐 **Portfolio:** [preveens-portfolio-app.netlify.app/](https://preveens-portfolio-app.netlify.app/)  
 ⛓️‍💥 **Instagram:** [instagram.com/_preveen_s](https://www.instagram.com/_preveen_s/)
 
